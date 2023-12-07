@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47450635852",
+    "project_id": "budgetbuddy-4e9d6",
+    "storage_bucket": "budgetbuddy-4e9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47450635852:android:89700942a990ca191a7ee9",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSimzu5uI0U0NpyO4J5GbHqU2B2rm1yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
